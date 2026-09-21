@@ -1,0 +1,7 @@
+{
+  "name": "LeadFinder AI",
+  "description": "Local Business Lead Intelligence Platform for prospecting, website analysis, lead scoring, and AI outreach",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
